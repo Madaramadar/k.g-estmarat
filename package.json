@@ -88,10 +88,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/hzhsbsjssushs/elsa.git"
+                 "url": "git+https://github.com/Madaramadar/elsa.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/hzhsbsjssushs/elsa/issues"
+                 "url": "https://github.com/Madaramadar/elsa/issues"
                   },
-                 "homepage": "https://github.com/hzhsbsjssushs/elsa#readme"
+                 "homepage": "https://github.com/Madaramadar/elsa#readme"
               }
